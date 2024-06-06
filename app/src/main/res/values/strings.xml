@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Health Monitor</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Login</string>
+    <string name="register">Register</string>
+    <string name="new_user">New User?</string>
+    <string name="old_user">Already Registered?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="patients">
+        <item>"Patient_1"</item>
+        <item>"Patient_2"</item>
+        <item>"Patient_3"</item>
+        <item>"Patient_4"</item>
+        <item>"Patient_5"</item>
+        <item>"Patient_6"</item>
+        <item>"Patient_7"</item>
+        <item>"Patient_8"</item>
+        <item>"Patient_9"</item>
+    </string-array>
+
+</resources>
